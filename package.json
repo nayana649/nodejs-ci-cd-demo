@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-ci-cd-demo",
+  "version": "1.0.0",
+  "description": "DevOps Task 1: Automate Code Deployment Using CI/CD Pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayana649/nodejs-ci-cd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nayana649/nodejs-ci-cd-demo/issues"
+  },
+  "homepage": "https://github.com/nayana649/nodejs-ci-cd-demo#readme"
+}
